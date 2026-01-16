@@ -25,3 +25,7 @@ Bookmarklet to view and export ICS Bank (ABN AMRO credit card) transactions to C
 ## CSV Fields
 
 Date, Time, Description, Amount, Currency, Original Amount, Original Currency, Category, Country, Card, Cardholder, Transaction Type, Purchase Type, Batch Number, Batch Sequence, Wallet Provider, Extra Card Indicator, Direct Debit State, Mobile, Loyalty Points, Chargeback Allowed
+
+---
+
+**Keywords**: ICS Cards, ICS Bank, ABN AMRO, International Card Services, credit card export, transaction history, CSV download, Dutch banking, Netherlands fintech, icscards.nl, creditcard overzicht, transactie export
