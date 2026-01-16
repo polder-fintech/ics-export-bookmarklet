@@ -2,7 +2,7 @@
 
 Bookmarklet to view and export ICS Bank (ABN AMRO credit card) transactions to CSV.
 
-<video src="ics.mp4" controls width="100%"></video>
+https://github.com/polder-fintech/ics-export-bookmarklet/raw/main/ics.mp4
 
 ## Features
 
